@@ -1,3 +1,0 @@
-After we set up the project, we need to install the date forcast :
----> npm i react-accessible-accordion
----> npm i react-select-async-paginate --force
